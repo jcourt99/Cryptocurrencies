@@ -14,4 +14,17 @@ Next, the PCA was applied to reduce the dimensions of the DataFrame to three pri
 
 An elbow curve was created based on the K-means algorithm to find the best value for K. Then, the K-means algorithm was used to predict the K clusters for the dataset.
 
+![Elbow chart](https://github.com/jcourt99/Cryptocurrencies/blob/main/Images/Elbow_curve.jpg)
+
+
 Finally, visualizations were created to show the distinct groups that correspond to the three principal components. The clusters were plotted on a 3D scatter chart with each data point showing the CoinName and Algorithm on hover. An easy-to-read table was created to show the tradeable cryptocurrencies. And a scatter plot represented the TotalCoinsMined and the TotalCoinSupply in a meaningful way. 
+
+### 3D Scatter Chart
+![3D](https://github.com/jcourt99/Cryptocurrencies/blob/main/Images/3D_chart.jpg)
+
+### Table
+![table](https://github.com/jcourt99/Cryptocurrencies/blob/main/Images/Table.jpg)
+
+### Scatter Plot
+![scatter](https://github.com/jcourt99/Cryptocurrencies/blob/main/Images/bokeh_plot.png)
+
